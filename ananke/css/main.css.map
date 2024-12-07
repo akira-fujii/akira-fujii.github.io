@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/runner/work/webpage-private/webpage-private/simple",
+	"sourceRoot": "/Users/akira.fujii/Documents/GitHub/webpage-private/simple",
 	"sources": [
 		"ananke/css/main.css"
 	],

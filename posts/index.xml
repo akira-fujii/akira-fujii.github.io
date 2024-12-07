@@ -1,22 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on KAbuKI Tech Blog</title><link>https://example.org/posts/</link><description>Recent content in Posts on KAbuKI Tech Blog</description><generator>Hugo -- 0.139.3</generator><language>ja</language><lastBuildDate>Thu, 05 Dec 2024 18:48:36 +0900</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo参考サイト</title><link>https://example.org/posts/2024-12-07-02-test/</link><pubDate>Thu, 05 Dec 2024 18:48:36 +0900</pubDate><guid>https://example.org/posts/2024-12-07-02-test/</guid><description>&lt;h2 id="概要">概要&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>Posts on KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/posts/</link><description>Recent content in Posts on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 07 Dec 2024 21:42:48 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>マークダウン形式でポートフォリオサイトを作る</title><link>https://akira-fujii.github.io/posts/2024-12-07-00-00-00-blog/</link><pubDate>Sat, 07 Dec 2024 21:42:48 +0900</pubDate><guid>https://akira-fujii.github.io/posts/2024-12-07-00-00-00-blog/</guid><description>&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>競技プログラミングやC++の勉強を始めたのを機に、学習ログ兼ポートフォリオ的なサイトを作ることにした。&lt;/p>
+&lt;h2 id="要件">要件&lt;/h2>
 &lt;ul>
-&lt;li>ディレクトリ構造解説
+&lt;li>ブログや自作の技術書を掲載できるポートフォリオサイトを作る。&lt;/li>
+&lt;li>フロントエンド開発に自信がないため、簡単に運用できる仕組みにする。&lt;/li>
+&lt;li>Markdownでブログを記述し、そのまま公開できる仕組みを構築する。
 &lt;ul>
-&lt;li>&lt;a href="https://blog.chick-p.work/blog/hugo-site-directory">https://blog.chick-p.work/blog/hugo-site-directory&lt;/a>&lt;/li>
+&lt;li>&lt;code>Hugo&lt;/code>というフレームワークを使用。スター数が多く信頼できそうだったため採用。&lt;/li>
+&lt;li>テーマ次第でブログ以外にドキュメントやリファレンスの作成も可能。&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>HugoをGithub Pagesにデプロイする
+&lt;li>デプロイはシンプルにGitで&lt;code>.md&lt;/code>ファイルをプッシュするだけで完了。
 &lt;ul>
-&lt;li>&lt;a href="https://zenn.dev/st_little/articles/create-blog-site-with-hugo">https://zenn.dev/st_little/articles/create-blog-site-with-hugo&lt;/a>&lt;/li>
+&lt;li>最初は無料がいいので、GitHub Pagesでホストする。&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="気になったテーマ">気になったテーマ&lt;/h2>
+&lt;h2 id="やったこと">やったこと&lt;/h2>
+&lt;p>長くなったのでそれぞれ別記事に分けた。&lt;br>
+できるだけ運用を楽にしたいのでちょっと工夫。&lt;/p>
 &lt;ul>
-&lt;li>Amethyst
-&lt;ul>
-&lt;li>ドキュメント制作に向いてそう&lt;/li>
-&lt;li>&lt;a href="https://amethyst.bencuan.me/">https://amethyst.bencuan.me/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
+&lt;li>&lt;a href="https://akira-fujii.github.io/tils/2024-12-07-02-00-00-test/">環境構築〜デプロイまでで参考にしたサイト&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://akira-fujii.github.io/tils/2024-12-07-23-31-06-image/">Hugo:Markdownファイルへの画像ペーストを楽にする&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://akira-fujii.github.io/tils/2024-12-07-23-36-28-timestamp/">hugo new で生成されるファイル名に自動でタイムスタンプをつける&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

@@ -1,32 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/</link><description>Recent content on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 07 Dec 2024 23:36:28 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://akira-fujii.github.io/about/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/about/</guid><description>&lt;figure>&lt;img src="https://akira-fujii.github.io/images/icon_kbk-1.png" width="200">
-&lt;/figure>
-
-&lt;p>ゲーム制作サークル Studio Kabuki の技術ブログ。&lt;br>
-グローバルに楽しんでもらえるゲームを作っていきます。&lt;/p>
-&lt;p>&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;h1 id="開発メンバー">開発メンバー&lt;/h1>
-&lt;ul>
-&lt;li>Aki (ゲームプログラマー／企画)
-&lt;ul>
-&lt;li>&lt;a href="https://akira-fujii.github.io/aki/">ポートフォリオ&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://x.com/StudioKabuki">連絡先&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul></description></item><item><title>Aki(ゲームプログラマー兼企画)</title><link>https://akira-fujii.github.io/aki/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/aki/</guid><description>&lt;p>ゲームプログラマー兼企画&lt;/p>
-&lt;h2 id="経験">経験&lt;/h2>
-&lt;p>学生時代2年＋社会人3年のゲーム開発経験を持つゲームプログラマー（クライアントエンジニア）です。&lt;br>
-UnityとC#を主に使用し、本業では運用型ソーシャルゲームの開発に携わっています。&lt;/p>
-&lt;p>過去にはハイパーカジュアルゲームの企画立案・開発を行い、&lt;br>
-自ら考案したゲーム3本がUSアプリストア無料ランキング1位を獲得。&lt;br>
-さらに30以上のタイトル開発に関与しました。&lt;br>
-数学や物理の知識を活かし、気持ち良い操作感やプレイフィールの追求を得意としています。&lt;/p>
-&lt;h2 id="登壇執筆">登壇・執筆&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://techbookfest.org/product/7DLTppLS5fXb8b8S1PPeUT?productVariantID=pGS6arJL13QesFPdHeZtjC">MIXI TECH NOTE #11 | UnityでDiscord内マルチ通信ゲームを作ろう！（寄稿）&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://youtu.be/_8pki1sahZw?si=NOkSpvsk0Wo2DjqQ&amp;amp;t=830">MIXI TECH CONFERENCE 2023 | 学校教育支援の技術解剖と21卒エンジニアが教材開発で習得したエンジニアリングスキル&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="連絡先">連絡先&lt;/h2>
-&lt;p>&lt;a href="https://x.com/StudioKabuki">twitter&lt;/a>&lt;/p></description></item><item><title>hugo new で生成されるファイル名に自動でタイムスタンプをつける</title><link>https://akira-fujii.github.io/tils/2024-12-07-23-36-28-timestamp/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024-12-07-23-36-28-timestamp/</guid><description>&lt;p>新しい記事を書くときには&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>Tils on KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/tils/</link><description>Recent content in Tils on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 07 Dec 2024 23:36:28 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/tils/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo new で生成されるファイル名に自動でタイムスタンプをつける</title><link>https://akira-fujii.github.io/tils/2024-12-07-23-36-28-timestamp/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024-12-07-23-36-28-timestamp/</guid><description>&lt;p>新しい記事を書くときには&lt;br>
 &lt;code>hugo new カテゴリ/記事のファイル名&lt;/code>&lt;br>
 このコマンドでテンプレート付きのmdファイルが自動生成される。&lt;/p>
 &lt;p>記事が増えてくると管理が大変になるんで、ファイル名にはタイムスタンプを割り当てたいところ。&lt;br>
@@ -68,32 +40,7 @@ Github然り、たいていのブラウザのマークダウンエディタは�
 &lt;p>(ちなみにコードブロックにhugoのショートコードを書くときは、エスケープする必要がある。&lt;a href="https://maku77.github.io/p/9tg2m7q/">参考&lt;/a>)&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>マークダウン形式でポートフォリオサイトを作る</title><link>https://akira-fujii.github.io/posts/2024-12-07-00-00-00-blog/</link><pubDate>Sat, 07 Dec 2024 21:42:48 +0900</pubDate><guid>https://akira-fujii.github.io/posts/2024-12-07-00-00-00-blog/</guid><description>&lt;h1 id="概要">概要&lt;/h1>
-&lt;p>競技プログラミングやC++の勉強を始めたのを機に、学習ログ兼ポートフォリオ的なサイトを作ることにした。&lt;/p>
-&lt;h2 id="要件">要件&lt;/h2>
-&lt;ul>
-&lt;li>ブログや自作の技術書を掲載できるポートフォリオサイトを作る。&lt;/li>
-&lt;li>フロントエンド開発に自信がないため、簡単に運用できる仕組みにする。&lt;/li>
-&lt;li>Markdownでブログを記述し、そのまま公開できる仕組みを構築する。
-&lt;ul>
-&lt;li>&lt;code>Hugo&lt;/code>というフレームワークを使用。スター数が多く信頼できそうだったため採用。&lt;/li>
-&lt;li>テーマ次第でブログ以外にドキュメントやリファレンスの作成も可能。&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>デプロイはシンプルにGitで&lt;code>.md&lt;/code>ファイルをプッシュするだけで完了。
-&lt;ul>
-&lt;li>最初は無料がいいので、GitHub Pagesでホストする。&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="やったこと">やったこと&lt;/h2>
-&lt;p>長くなったのでそれぞれ別記事に分けた。&lt;br>
-できるだけ運用を楽にしたいのでちょっと工夫。&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://akira-fujii.github.io/tils/2024-12-07-02-00-00-test/">環境構築〜デプロイまでで参考にしたサイト&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://akira-fujii.github.io/tils/2024-12-07-23-31-06-image/">Hugo:Markdownファイルへの画像ペーストを楽にする&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://akira-fujii.github.io/tils/2024-12-07-23-36-28-timestamp/">hugo new で生成されるファイル名に自動でタイムスタンプをつける&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Hugo参考サイト</title><link>https://akira-fujii.github.io/tils/2024-12-07-02-00-00-test/</link><pubDate>Thu, 05 Dec 2024 18:48:36 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024-12-07-02-00-00-test/</guid><description>&lt;p>参考になったサイトをメモ&lt;/p>
+&lt;/div></description></item><item><title>Hugo参考サイト</title><link>https://akira-fujii.github.io/tils/2024-12-07-02-00-00-test/</link><pubDate>Thu, 05 Dec 2024 18:48:36 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024-12-07-02-00-00-test/</guid><description>&lt;p>参考になったサイトをメモ&lt;/p>
 &lt;h2 id="概要">概要&lt;/h2>
 &lt;ul>
 &lt;li>クイックスタート

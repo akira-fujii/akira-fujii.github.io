@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>SinglePage on KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/tags/singlepage/</link><description>Recent content in SinglePage on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 07 Dec 2024 23:36:28 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/tags/singlepage/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://akira-fujii.github.io/about/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/about/</guid><description>&lt;figure>&lt;img src="https://akira-fujii.github.io/images/icon_kbk-1.png" width="200">
+&lt;/figure>
+
+&lt;p>ゲーム制作サークル Studio Kabuki の技術ブログ。&lt;br>
+グローバルに楽しんでもらえるゲームを作っていきます。&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;h1 id="開発メンバー">開発メンバー&lt;/h1>
+&lt;ul>
+&lt;li>Aki (ゲームプログラマー／企画)
+&lt;ul>
+&lt;li>&lt;a href="https://akira-fujii.github.io/aki/">ポートフォリオ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://x.com/StudioKabuki">連絡先&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Aki(ゲームプログラマー兼企画)</title><link>https://akira-fujii.github.io/aki/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/aki/</guid><description>&lt;p>ゲームプログラマー兼企画&lt;/p>
+&lt;h2 id="経験">経験&lt;/h2>
+&lt;p>学生時代2年＋社会人3年のゲーム開発経験を持つゲームプログラマー（クライアントエンジニア）です。&lt;br>
+UnityとC#を主に使用し、本業では運用型ソーシャルゲームの開発に携わっています。&lt;/p>
+&lt;p>過去にはハイパーカジュアルゲームの企画立案・開発を行い、&lt;br>
+自ら考案したゲーム3本がUSアプリストア無料ランキング1位を獲得。&lt;br>
+さらに30以上のタイトル開発に関与しました。&lt;br>
+数学や物理の知識を活かし、気持ち良い操作感やプレイフィールの追求を得意としています。&lt;/p>
+&lt;h2 id="登壇執筆">登壇・執筆&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://techbookfest.org/product/7DLTppLS5fXb8b8S1PPeUT?productVariantID=pGS6arJL13QesFPdHeZtjC">MIXI TECH NOTE #11 | UnityでDiscord内マルチ通信ゲームを作ろう！（寄稿）&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://youtu.be/_8pki1sahZw?si=NOkSpvsk0Wo2DjqQ&amp;amp;t=830">MIXI TECH CONFERENCE 2023 | 学校教育支援の技術解剖と21卒エンジニアが教材開発で習得したエンジニアリングスキル&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="連絡先">連絡先&lt;/h2>
+&lt;p>&lt;a href="https://x.com/StudioKabuki">twitter&lt;/a>&lt;/p></description></item></channel></rss>

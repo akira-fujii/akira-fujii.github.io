@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/</link><description>Recent content on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 07 Dec 2024 23:36:28 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://akira-fujii.github.io/about/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/about/</guid><description>&lt;figure>&lt;img src="https://akira-fujii.github.io/images/icon_kbk-1.png" width="200">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/</link><description>Recent content on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 08 Dec 2024 23:24:17 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>JCOM回線でAtcoderの表示バグを直す</title><link>https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/</link><pubDate>Sun, 08 Dec 2024 23:24:17 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/</guid><description>&lt;p>Jcom側のセキュリティフィルタ(Guard)に画像読み込みがブロックされてしまっている。&lt;br>
+Jcomメッシュwi-fiというアプリを入れて、atcoderのドメインをホワイトリストに登録すれば良い。&lt;br>
+（入居時に案内される契約周りのアプリとはまた別もの。）&lt;/p>
+&lt;h2 id="やり方">やり方&lt;/h2>
+&lt;ul>
+&lt;li>Jcomメッシュwi-fiなるアプリをインストール
+&lt;ul>
+&lt;li>&lt;a href="https://cs.myjcom.jp/knowledgeDetail?an=002000390">https://cs.myjcom.jp/knowledgeDetail?an=002000390&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>自宅をガード（nイベント）をタップ&lt;/li>
+&lt;/ul>
+&lt;figure>&lt;img src="https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/images/IMG_6524.jpg" width="300">
+&lt;/figure>
+
+&lt;ul>
+&lt;li>atcoderがブロックされているのを確認する&lt;/li>
+&lt;li>右上の「&amp;hellip;」メニューから「許可リストを追加」みたいな項目を選ぶ&lt;/li>
+&lt;/ul>
+&lt;figure>&lt;img src="https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/images/IMG_6522.jpg" width="300">
+&lt;/figure>
+
+&lt;ul>
+&lt;li>webサイトの許可リストに、&lt;code>www.atcoder.jp&lt;/code>を追加する&lt;/li>
+&lt;/ul>
+&lt;figure>&lt;img src="https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/images/IMG_6523.jpg" width="300">
+&lt;/figure>
+
+&lt;p>以上でテザリングしなくてもatcoderにアクセス可能となる。&lt;/p></description></item><item><title>About</title><link>https://akira-fujii.github.io/about/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/about/</guid><description>&lt;figure>&lt;img src="https://akira-fujii.github.io/images/icon_kbk-1.png" width="200">
 &lt;/figure>
 
 &lt;p>ゲーム制作サークル Studio Kabuki の技術ブログ。&lt;br>

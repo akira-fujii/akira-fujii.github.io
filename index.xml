@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/</link><description>Recent content on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sun, 08 Dec 2024 23:24:17 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>JCOM回線でAtcoderの表示バグを直す</title><link>https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/</link><pubDate>Sun, 08 Dec 2024 23:24:17 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/</guid><description>&lt;p>Jcom側のセキュリティフィルタ(Guard)に画像読み込みがブロックされてしまい、&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/</link><description>Recent content on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 10 Dec 2024 08:45:39 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>ゲーム開発者におすすめの本たち</title><link>https://akira-fujii.github.io/posts/2024_12_08_23_55_27-fav-books/</link><pubDate>Sun, 08 Dec 2024 23:55:27 +0900</pubDate><guid>https://akira-fujii.github.io/posts/2024_12_08_23_55_27-fav-books/</guid><description>&lt;p>順次更新。学生やチームの仲間にぜひ勧めたいおすすめの本。&lt;/p>
+&lt;h1 id="全職種にオススメ">全職種にオススメ&lt;/h1>
+&lt;p>&lt;style>
+ .amazon-card {
+ display: flex;
+ flex-direction: column;
+ align-items: flex-start;
+ justify-content: center;
+ border: 1px solid #ccc;
+ border-radius: 8px;
+ padding: 16px;
+ margin: 16px 0;
+ text-align: left;
+ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ transition: transform 0.2s, box-shadow 0.2s;
+ text-decoration: none;
+ color: inherit;
+ }
+
+ .amazon-card:hover {
+ transform: scale(1.02);
+ box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+ }
+
+ .amazon-card img {
+ max-width: 100%;
+ height: auto;
+ border-radius: 4px;
+ margin-bottom: 12px;
+ }
+
+ .amazon-card-title {
+ font-size: 16px;
+ font-weight: bold;
+ color: #333;
+ text-decoration: none;
+ }
+
+ .amazon-card-title:hover {
+ color: #0073e6;
+ }
+&lt;/style>
+
+&lt;a href="https://www.amazon.co.jp/dp/4797357363?tag=kabukiblog0c" target="_blank" class="amazon-card">
+ &lt;img border="0" src="https://images-fe.ssl-images-amazon.com/images/P/4797357363.09.MZZZZZZZ&amp;tag=kabukiblog0c">
+ &lt;span class="amazon-card-title">3Dゲームをおもしろくする技術 実例から解き明かすゲームメカニクス・レベルデザイン・カメラのノウハウ&lt;/span>
+&lt;/a>&lt;br>
+ゲームの分析を始める上でオススメな本。とにかく具体例が多くてわかりやすい。&lt;/p></description></item><item><title>JCOM回線でAtcoderの表示バグを直す</title><link>https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/</link><pubDate>Sun, 08 Dec 2024 23:24:17 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/</guid><description>&lt;p>Jcom側のセキュリティフィルタ(Guard)に画像読み込みがブロックされてしまい、&lt;br>
 atcoderの表示崩れが発生している。&lt;/p>
 &lt;p>&lt;a href="https://x.com/atcoder/status/1833065071251206573">https://x.com/atcoder/status/1833065071251206573&lt;/a>&lt;/p>
 &lt;blockquote>
@@ -146,10 +193,6 @@ Github然り、たいていのブラウザのマークダウンエディタは�
 &lt;li>&lt;a href="https://zenn.dev/st_little/articles/create-blog-site-with-hugo">https://zenn.dev/st_little/articles/create-blog-site-with-hugo&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="tips">tips&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
 &lt;/ul>
 &lt;h2 id="テーマ">テーマ&lt;/h2>
 &lt;p>気になったテーマをメモ&lt;/p>

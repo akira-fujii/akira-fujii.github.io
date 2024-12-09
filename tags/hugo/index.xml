@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>Hugo on KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/tags/hugo/</link><description>Recent content in Hugo on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Sat, 07 Dec 2024 23:36:28 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo new で生成されるファイル名に自動でタイムスタンプをつける</title><link>https://akira-fujii.github.io/tils/2024-12-07-23-36-28-timestamp/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024-12-07-23-36-28-timestamp/</guid><description>&lt;p>新しい記事を書くときには&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>Hugo on KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/tags/hugo/</link><description>Recent content in Hugo on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 09 Dec 2024 01:11:54 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo new で生成されるファイル名に自動でタイムスタンプをつける</title><link>https://akira-fujii.github.io/tils/2024-12-07-23-36-28-timestamp/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024-12-07-23-36-28-timestamp/</guid><description>&lt;p>新しい記事を書くときには&lt;br>
 &lt;code>hugo new カテゴリ/記事のファイル名&lt;/code>&lt;br>
 このコマンドでテンプレート付きのmdファイルが自動生成される。&lt;/p>
 &lt;p>記事が増えてくると管理が大変になるんで、ファイル名にはタイムスタンプを割り当てたいところ。&lt;br>
@@ -80,10 +80,6 @@ Github然り、たいていのブラウザのマークダウンエディタは�
 &lt;li>&lt;a href="https://zenn.dev/st_little/articles/create-blog-site-with-hugo">https://zenn.dev/st_little/articles/create-blog-site-with-hugo&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul>
-&lt;h2 id="tips">tips&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
 &lt;/ul>
 &lt;h2 id="テーマ">テーマ&lt;/h2>
 &lt;p>気になったテーマをメモ&lt;/p>

@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/</link><description>Recent content on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Tue, 10 Dec 2024 11:25:01 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>ゲーム開発者におすすめの本</title><link>https://akira-fujii.github.io/posts/2024_12_08_23_55_27-fav-books/</link><pubDate>Sun, 08 Dec 2024 23:55:27 +0900</pubDate><guid>https://akira-fujii.github.io/posts/2024_12_08_23_55_27-fav-books/</guid><description>&lt;p>順次更新予定&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/</link><description>Recent content on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 11 Dec 2024 08:46:32 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>C++の勉強(環境構築・競プロ)</title><link>https://akira-fujii.github.io/tils/2024-12-08-22-06-57-cpp-pointer/</link><pubDate>Wed, 11 Dec 2024 01:06:57 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024-12-08-22-06-57-cpp-pointer/</guid><description>&lt;p>C++の勉強備忘録&lt;/p>
+&lt;h1 id="macでcsdl2環境構築">macでC++(+SDL2)環境構築&lt;/h1>
+&lt;style>
+ .amazon-card {
+ display: flex;
+ flex-direction: column;
+ align-items: flex-start;
+ justify-content: center;
+ border: 1px solid #ccc;
+ border-radius: 8px;
+ padding: 16px;
+ margin: 16px 0;
+ text-align: left;
+ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ transition: transform 0.2s, box-shadow 0.2s;
+ text-decoration: none;
+ color: inherit;
+ }
+
+ .amazon-card:hover {
+ transform: scale(1.02);
+ box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+ }
+
+ .amazon-card img {
+ max-width: 100%;
+ height: auto;
+ border-radius: 4px;
+ margin-bottom: 12px;
+ }
+
+ .amazon-card-title {
+ font-size: 16px;
+ font-weight: bold;
+ color: #333;
+ text-decoration: none;
+ }
+
+ .amazon-card-title:hover {
+ color: #0073e6;
+ }
+&lt;/style>
+
+&lt;a href="https://www.amazon.co.jp/dp/4798157619?tag=kabukiblog0c" target="_blank" class="amazon-card">
+ &lt;img border="0" src="https://images-fe.ssl-images-amazon.com/images/P/4798157619.09.MZZZZZZZ&amp;tag=kabukiblog0c">
+ &lt;span class="amazon-card-title">ゲームプログラミングC&amp;#43;&amp;#43;&lt;/span>
+&lt;/a>
+&lt;p>上記の本のサンプルコードをmacで動かすため、IDEはCLionを選択。&lt;br>
+下の動画に沿って環境構築した。&lt;br>
+VSCodeよりもパッケージの管理が圧倒的に楽だった。&lt;/p></description></item><item><title>ゲーム開発者におすすめの本</title><link>https://akira-fujii.github.io/posts/2024_12_08_23_55_27-fav-books/</link><pubDate>Sun, 08 Dec 2024 23:55:27 +0900</pubDate><guid>https://akira-fujii.github.io/posts/2024_12_08_23_55_27-fav-books/</guid><description>&lt;p>順次更新予定&lt;/p>
 &lt;p>新卒向けの就活相談でよく紹介している本を記載しておきます。&lt;br>
 特にプランナー・クライアントエンジニア志望の人向け、面接やESで書くことの引き出しになります。&lt;/p>
 &lt;h1 id="全職種にオススメ">全職種にオススメ&lt;/h1>

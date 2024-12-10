@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>Tils on KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/tils/</link><description>Recent content in Tils on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Mon, 09 Dec 2024 01:11:54 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/tils/index.xml" rel="self" type="application/rss+xml"/><item><title>JCOM回線でAtcoderの表示バグを直す</title><link>https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/</link><pubDate>Sun, 08 Dec 2024 23:24:17 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/</guid><description>&lt;p>Jcom側のセキュリティフィルタ(Guard)に画像読み込みがブロックされてしまい、&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>Tils on KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/tils/</link><description>Recent content in Tils on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 11 Dec 2024 08:46:32 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/tils/index.xml" rel="self" type="application/rss+xml"/><item><title>C++の勉強(環境構築・競プロ)</title><link>https://akira-fujii.github.io/tils/2024-12-08-22-06-57-cpp-pointer/</link><pubDate>Wed, 11 Dec 2024 01:06:57 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024-12-08-22-06-57-cpp-pointer/</guid><description>&lt;p>C++の勉強備忘録&lt;/p>
+&lt;h1 id="macでcsdl2環境構築">macでC++(+SDL2)環境構築&lt;/h1>
+&lt;style>
+ .amazon-card {
+ display: flex;
+ flex-direction: column;
+ align-items: flex-start;
+ justify-content: center;
+ border: 1px solid #ccc;
+ border-radius: 8px;
+ padding: 16px;
+ margin: 16px 0;
+ text-align: left;
+ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ transition: transform 0.2s, box-shadow 0.2s;
+ text-decoration: none;
+ color: inherit;
+ }
+
+ .amazon-card:hover {
+ transform: scale(1.02);
+ box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+ }
+
+ .amazon-card img {
+ max-width: 100%;
+ height: auto;
+ border-radius: 4px;
+ margin-bottom: 12px;
+ }
+
+ .amazon-card-title {
+ font-size: 16px;
+ font-weight: bold;
+ color: #333;
+ text-decoration: none;
+ }
+
+ .amazon-card-title:hover {
+ color: #0073e6;
+ }
+&lt;/style>
+
+&lt;a href="https://www.amazon.co.jp/dp/4798157619?tag=kabukiblog0c" target="_blank" class="amazon-card">
+ &lt;img border="0" src="https://images-fe.ssl-images-amazon.com/images/P/4798157619.09.MZZZZZZZ&amp;tag=kabukiblog0c">
+ &lt;span class="amazon-card-title">ゲームプログラミングC&amp;#43;&amp;#43;&lt;/span>
+&lt;/a>
+&lt;p>上記の本のサンプルコードをmacで動かすため、IDEはCLionを選択。&lt;br>
+下の動画に沿って環境構築した。&lt;br>
+VSCodeよりもパッケージの管理が圧倒的に楽だった。&lt;/p></description></item><item><title>JCOM回線でAtcoderの表示バグを直す</title><link>https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/</link><pubDate>Sun, 08 Dec 2024 23:24:17 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024_12_08_23_24_17-jcom/</guid><description>&lt;p>Jcom側のセキュリティフィルタ(Guard)に画像読み込みがブロックされてしまい、&lt;br>
 atcoderの表示崩れが発生している。&lt;/p>
 &lt;p>&lt;a href="https://x.com/atcoder/status/1833065071251206573">https://x.com/atcoder/status/1833065071251206573&lt;/a>&lt;/p>
 &lt;blockquote>

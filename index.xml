@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/</link><description>Recent content on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 11 Dec 2024 08:53:27 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>C++の勉強(環境構築・競プロ)</title><link>https://akira-fujii.github.io/tils/2024-12-08-22-06-57-cpp-pointer/</link><pubDate>Wed, 11 Dec 2024 01:06:57 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024-12-08-22-06-57-cpp-pointer/</guid><description>&lt;p>C++の勉強備忘録&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>KAbuKI Tech Blog</title><link>https://akira-fujii.github.io/</link><description>Recent content on KAbuKI Tech Blog</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Wed, 18 Dec 2024 01:36:03 +0900</lastBuildDate><atom:link href="https://akira-fujii.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>C++の勉強(環境構築・競プロ)</title><link>https://akira-fujii.github.io/tils/2024-12-08-22-06-57-cpp-pointer/</link><pubDate>Wed, 11 Dec 2024 01:06:57 +0900</pubDate><guid>https://akira-fujii.github.io/tils/2024-12-08-22-06-57-cpp-pointer/</guid><description>&lt;p>C++の勉強備忘録&lt;/p>
 &lt;h1 id="macでcsdl2環境構築">macでC++(+SDL2)環境構築&lt;/h1>
 &lt;style>
  .amazon-card {
@@ -150,12 +150,11 @@ atcoderのドメインをホワイトリストに登録すれば良い。&lt;br>
 &lt;/li>
 &lt;/ul></description></item><item><title>Aki(ゲームプログラマー兼企画)</title><link>https://akira-fujii.github.io/aki/</link><pubDate>Sat, 07 Dec 2024 23:36:28 +0900</pubDate><guid>https://akira-fujii.github.io/aki/</guid><description>&lt;p>ゲームプログラマー兼企画&lt;/p>
 &lt;h2 id="経験">経験&lt;/h2>
-&lt;p>学生時代2年＋社会人3年のゲーム開発経験を持つゲームプログラマー（クライアントエンジニア）です。&lt;br>
-UnityとC#を主に使用し、本業では運用型ソーシャルゲームの開発に携わっています。&lt;/p>
-&lt;p>過去にはハイパーカジュアルゲームの企画立案・開発を行い、&lt;br>
-自ら考案したゲーム3本がUSアプリストア無料ランキング1位を獲得。&lt;br>
-さらに30以上のタイトル開発に関与しました。&lt;br>
-数学や物理の知識を活かし、気持ち良い操作感やプレイフィールの追求を得意としています。&lt;/p>
+&lt;p>学生時代2年＋社会人3年のゲーム開発経験を持つゲームプログラマー（クライアントエンジニア）です。&lt;/p>
+&lt;p>もともとカジュアルゲームの会社で企画立案をしており&lt;br>
+考えたゲーム3本がUSアプリストア無料ランキング1位を獲得&lt;br>
+ほか30以上のタイトル開発に貢献しました&lt;br>
+今はゲーム・ソフトウェア開発、競プロ勉強中です&lt;/p>
 &lt;h2 id="登壇執筆">登壇・執筆&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://techbookfest.org/product/7DLTppLS5fXb8b8S1PPeUT?productVariantID=pGS6arJL13QesFPdHeZtjC">MIXI TECH NOTE #11 | UnityでDiscord内マルチ通信ゲームを作ろう！（寄稿）&lt;/a>&lt;/li>
